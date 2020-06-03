@@ -1,0 +1,2 @@
+* linguist-vendored
+*.mk linguist-vendored=false
