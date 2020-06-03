@@ -1,0 +1,9 @@
+[{
+  "directory": "C:\\Users\\chein\\Documents\\APA\\2018-2019\\prova1",
+  "command": "C:/TDM-GCC-64/bin/gcc.exe -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/main.c.o -MF./Debug/main.c.o.d -MM main.c",
+  "file": "C:\\Users\\chein\\Documents\\APA\\2018-2019\\prova1\\main.c"
+ }, {
+  "directory": "C:\\Users\\chein\\Documents\\APA\\2018-2019\\prova1",
+  "command": "C:/TDM-GCC-64/bin/gcc.exe -c C:/Users/chein/Documents/APA/2018-2019/prova1/main.c -g -O0 -Wall -o ./Debug/main.c.o -I. -I.",
+  "file": "C:\\Users\\chein\\Documents\\APA\\2018-2019\\prova1\\main.c"
+ }]

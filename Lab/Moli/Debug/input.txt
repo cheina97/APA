@@ -1,0 +1,4 @@
+navi 4
+num_moli 8
+lun 8
+1 4 4 7

@@ -1,0 +1,1 @@
+./Debug/st.c.o ./Debug/graph.c.o ./Debug/main.c.o   
