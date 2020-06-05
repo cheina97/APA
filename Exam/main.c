@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "graph.h"
+#include "Graph.h"
 
 int main(int argc, char **argv) {
 	//punto 1
@@ -12,10 +12,12 @@ int main(int argc, char **argv) {
 		return 0;
 	}
 	
+    
 	//punto 2
 	graph_t *g=graph_init();
 	load(fp1,g);
 	
+    
 	//punto 3
 	if(verificafile(fp2,g)){
 		printf("E' un kernel\n");
